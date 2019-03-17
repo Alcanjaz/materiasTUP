@@ -1,4 +1,4 @@
-#Ejercicio 5
+**Ejercicio 5
 
 1. Escribir un algoritmo que intercambie el valor entre dos datos. Ejemplo, si A=2 y B=5, deberá mostrar B=2 y A=5.
 ```c
