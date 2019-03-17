@@ -12,7 +12,7 @@ Desarrollar los siguientes ejercicios mediante programa C usando la función C:
 
 int main(void) {
   printf("Schmoker Alexis\n");
-  printf("Nombre: %s \nApellido: %s", NOMBRE, APELLIDO);
+  printf("Nombre: %s \nApellido: %s\n", NOMBRE, APELLIDO);
   printf("Materias de primer año:\n");
   printf("Programación I\n");
   printf("Matematicas\n");
@@ -20,4 +20,17 @@ int main(void) {
   printf("Inglés I\n");
   printf("Taller de Computación\n");
 }
+```
+**Salida:**
+
+```
+Schmoker Alexis
+Nombre: ALEXIS
+Apellido: SCHMOKER
+Materias de primer año:
+Programación I
+Matematicas
+Laboratorio de Computación
+Inglés I
+Taller de Computación
 ```
