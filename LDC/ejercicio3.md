@@ -21,3 +21,15 @@ int main(void) {
   printf("Taller de Computación\n");
 }
 ```
+**Salida:**
+
+```
+Schmoker Alexis
+Nombre: ALEXIS
+Apellido: SCHMOKERMaterias de primer año:
+Programación I
+Matematicas
+Laboratorio de Computación
+Inglés I
+Taller de Computación
+```
